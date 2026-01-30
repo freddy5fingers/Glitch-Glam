@@ -1,0 +1,7 @@
+{
+  "name": " GLITCH_GLAM",
+  "description": "Professional AI-powered virtual makeup studio with real-world product research and high-fidelity try-ons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
